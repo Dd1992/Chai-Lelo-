@@ -1,2 +1,1 @@
-# Chai-Lelo-
-Online Ordering System
+Starter frontend
