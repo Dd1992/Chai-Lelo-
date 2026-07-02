@@ -1,1 +1,4 @@
-console.log('Chai Lelo v1');
+
+document.addEventListener('DOMContentLoaded',()=>{
+console.log('Chai Lelo App Started');
+});

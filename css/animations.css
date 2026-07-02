@@ -1,0 +1,10 @@
+
+.fade-in{animation:fade .5s ease-in}
+@keyframes fade{
+from{opacity:0;transform:translateY(15px)}
+to{opacity:1;transform:translateY(0)}
+}
+.card:hover,.food-card:hover{
+transform:translateY(-5px);
+transition:.3s;
+}

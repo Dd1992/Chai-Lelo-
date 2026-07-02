@@ -1,0 +1,7 @@
+
+@media (max-width:768px){
+header{flex-direction:column;text-align:center}
+.cards,.menu-grid{grid-template-columns:1fr}
+.container{padding:15px}
+button{width:100%}
+}
